@@ -1,3 +1,4 @@
+# Menu functions for Task Manager
 def print_task(task):
     status = "Завършена" if task.completed else "Незавършена"
     print(f"{task.task_id}. {task.title} - {status}")
