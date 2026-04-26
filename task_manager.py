@@ -1,3 +1,4 @@
+# Logic improvements v2
 from storage import load_tasks, save_tasks
 from task import Task
 
